@@ -1,0 +1,12 @@
+2023-09-08 15:04:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "POST" not found (this database is empty); SQL statement:
+select post0_.id as id1_0_, post0_.content as content2_0_, post0_.title as title3_0_ from post post0_ [42104-214]
+2023-09-08 15:04:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "POST" not found (this database is empty); SQL statement:
+select post0_.id as id1_0_, post0_.content as content2_0_, post0_.title as title3_0_ from post post0_ [42104-214]
+2023-09-08 15:16:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "POST" not found (this database is empty); SQL statement:
+select post0_.id as id1_0_, post0_.content as content2_0_, post0_.title as title3_0_ from post post0_ [42104-214]
+2023-09-08 15:18:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "POST" not found (this database is empty); SQL statement:
+select post0_.id as id1_0_, post0_.content as content2_0_, post0_.title as title3_0_ from post post0_ [42104-214]
